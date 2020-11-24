@@ -1,22 +1,21 @@
-# Start Here!
-Welcome to Liftoff! We are excited to have you in this course.
+Project Outline
+For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
+Assignment Description
+Project Outline Assignment
 
-## Repo Explanation
-In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
+Submission Instructions
+Overview
+A website for users to find local produce suppliers, and for local producers/growers/farmers to share their links and goods.
 
-Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
+Features
+-Marketplace - facilitate sales. -Vendor Rating/Review Option - Let consumers rate their experiences with farmers. -Link to Scheduled Events - users can link to upcoming events such as farmers markets. -About Me/Profile/Bio - Vendors can link to their personal sites and summarize what they do and what they're offering. -Media - Vendors can upload photos/descriptions of their available product. -Search - Users can search for vendors by location, item, vendor, product type, event, farm type.
 
-You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
+Technologies
+-Java
 
-We are making you use GitHub for two important reasons:
-<ol>
-<li>You will get more practice with GitHub</li>
-<li>Your assignments are all stored in one place</li>
-</ol>
+What I'll Have to Learn
+-Google API - Location search/listing? -Shopping Cart? -RSS Feeds -Deploying -Complimenting Java with JavaScript (why use Angular WITH Springboot) -How to use Java on the front end
 
-## Next Step
-Now that you know what this repo is for let's get it setup.
-
-Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+Project Tracker
+https://trello.com/b/yCqEiAS2/2020-november-liftoff-megans-group

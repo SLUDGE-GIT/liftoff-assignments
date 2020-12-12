@@ -13,6 +13,6 @@ https://github.com/SLUDGE-GIT
 https://www.linkedin.com/in/kyle-florez-29740790/
 
 ### Resume
-https://docs.google.com/document/d/168mWt6VnkT1tUiMpuiD6FlVjakbKjrctRNMzxQe6Zo0/edit?usp=sharing
+https://github.com/SLUDGE-GIT/liftoff-assignments/blob/master/Resume.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
